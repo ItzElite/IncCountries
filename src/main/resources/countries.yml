@@ -1,0 +1,15 @@
+ru:
+  text: "Россия"
+  icon: "RED_WOOL"
+usa:
+  text: "США"
+  icon: "BLUE_WOOL"
+china:
+  text: "Китай"
+  icon: "YELLOW_WOOL"
+german:
+  text: "Германия"
+  icon: "BLACK_WOOL"
+spain:
+  text: "Испания"
+  icon: "ORANGE_WOOL"

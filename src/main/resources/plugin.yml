@@ -1,0 +1,8 @@
+name: IncCountries
+version: '${project.version}'
+main: ru.incrementstudio.inccountries.Plugin
+api-version: 1.16
+description: Плагин на страны 
+commands:
+  country:
+    description: Команда настройки плагина

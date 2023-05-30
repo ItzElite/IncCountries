@@ -1,0 +1,4 @@
+command: countries
+
+separator: "_"
+give-command: "lp user %player% meta setprefix 1 %prefix%"
